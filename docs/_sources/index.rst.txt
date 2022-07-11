@@ -118,6 +118,104 @@ We will not present a comprehensive list of numerical simulation schemes, but us
    notebooks/L6/1_covid19.ipynb
    notebooks/L6/2_coupled_pendula.ipynb   
    notebooks/L6/3_fourier_analysis.ipynb     
+   lectures/L6/assignment_5.rst
+   assignments/exercise5/SolutionE5.ipynb
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Lecture 7:
+
+   lectures/L7/overview_7.rst
+   notebooks/L7/1_spring_pendulum.ipynb
+   notebooks/L7/2_planetary_motion.ipynb   
+   notebooks/L7/3_diffusion_equation.ipynb  
+ 
+.. toctree::
+   :maxdepth: 2
+   :caption: Lecture 8:
+
+   lectures/L8/overview_8.rst
+   notebooks/L8/1_curve_fitting.ipynb
+   lectures/L8/assignment_6.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Lecture 9:
+
+   lectures/L9/overview_9.rst
+   notebooks/L9/1_plane_waves.ipynb
+   notebooks/L9/2_spherical_waves.ipynb
+   notebooks/L9/3_huygens_principle.ipynb
+   notebooks/L9/4_gaussian_beams.ipynb
+   lectures/L9/assignment_7.rst
+   assignments/exercise7/SolutionE7.ipynb
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Lecture 10:
+
+   lectures/L10/overview_10.rst
+   notebooks/L10/1_quantum_mechanics.ipynb
+   notebooks/L10/2_particle_in_a_box.ipynb
+   notebooks/L10/3_harmonic_oscillator.ipynb
+   notebooks/L10/4_periodic_potential.ipynb
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Lecture 11:
+
+   lectures/L11/overview_11.rst
+   notebooks/L11/1_quantum_dynamics.ipynb
+   notebooks/L11/2_particle_in_a_box.ipynb
+   notebooks/L11/3_tunneling.ipynb
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Lecture 12:
+
+   lectures/L12/overview_12.rst
+   notebooks/L12/pluto/lecture.jl.html
+   
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Lecture 13:
+
+   lectures/L12/overview_12-Copy1.rst
+   notebooks/L12/1_hydrodynamics.ipynb
+   notebooks/L12/2_reinforcement_learning.ipynb   
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Lecture 14:
+
+   lectures/L13/overview_13.rst
+   notebooks/L13/1_deep_learning.ipynb
+   notebooks/L13/2_deep_learning_keras.ipynb
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Lecture 15:
+
+   lectures/L14/overview_14.rst
+   notebooks/L14/1_CNN.ipynb
+   notebooks/L14/2_AutoEncoder.ipynb
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Lecture 16:
+
+   lectures/L15/overview_15.rst
+   notebooks/L15/1_python_hardware.ipynb
+   notebooks/L15/2_project_template.ipynb
+
+
+      
 
 Indices and tables
 ==================

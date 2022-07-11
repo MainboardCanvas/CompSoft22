@@ -7,7 +7,8 @@ Lecture 8 will be probably the shortes, but yet one of the important ones. We ha
 2. Least Squares
 3. Covariances and Correlation 
 
-I hope you stay motivated over time! Stay safe!
+In addition you will get an assignment which is related to the contens of the lecture. 
+I hope you stay motivated! Stay safe!
 
 .. raw:: html
 
